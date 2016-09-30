@@ -1,4 +1,4 @@
-class ApacheSpark16 < Formula
+class ApacheSpark20 < Formula
   desc "Engine for large-scale data processing"
   homepage "https://spark.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=spark/spark-2.0.0/spark-2.0.0-bin-hadoop2.7.tgz"
