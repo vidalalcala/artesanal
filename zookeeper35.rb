@@ -3,7 +3,6 @@ class Zookeeper < Formula
   homepage "https://zookeeper.apache.org/"
   url "https://www.apache.org/dyn/closer.cgi?path=zookeeper/zookeeper-3.5.3-beta/zookeeper-3.5.3-beta.tar.gz"
   mirror "http://mirror.nbtelecom.com.br/apache/zookeeper/zookeeper-3.5.3-beta/zookeeper-3.5.3-beta.tar.gz"
-  sha1 "c3d0053328f3b480e83074d2245e146aad11961e"
 
   head do
     url "https://svn.apache.org/repos/asf/zookeeper/trunk"
