@@ -1,4 +1,4 @@
-class Zookeeper < Formula
+class Zookeeper35 < Formula
   desc "Centralized server for distributed coordination of services"
   homepage "https://zookeeper.apache.org/"
   url "https://www.apache.org/dyn/closer.cgi?path=zookeeper/zookeeper-3.5.3-beta/zookeeper-3.5.3-beta.tar.gz"
